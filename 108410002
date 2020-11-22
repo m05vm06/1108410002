@@ -1,0 +1,7 @@
+git init
+git add .
+git config --global user.email s03060115@gmail.com
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://www.npu.edu.tw/index.aspx
+git push -u origin main
